@@ -1,0 +1,13 @@
+{
+    "name": "kmoll/composer-demo",
+    "description": "Demo installation of Drupal for Drupalcon Dublin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kevin Moll",
+            "email": "kevin.j.moll@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
